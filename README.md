@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Buchner</h1>
+<h3 align="center">Welcome to my GitHub profile. I´m happy to see you here.</h3>
 <h3 align="center">A passionate developer from Germany who enjoys coding and is eager for personal development.</h3>
 
 - 🔭 I’m currently working on **app_haushaltsverwaltung**
@@ -8,7 +9,7 @@
 - ⚡ Fun fact **Conversations trigger Reels in my head — and I usually reply with one.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> s.buchner@t-online.de
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
