@@ -2,11 +2,11 @@
 <h3 align="center">Welcome to my GitHub profile. I´m happy to see you here.</h3>
 <h3 align="center">A passionate developer from Germany who enjoys coding and is eager for personal development.</h3>
 
-- 🔭 I’m currently working on **app_haushaltsverwaltung**
+- 🔭 I’m currently working on: **pokedex_api**
 
-- 🌱 I’m currently learning **Python and how to implement entire projects.**
+- 🌱 I’m currently learning: **How to build applications using REST APIs in JavaScript.**
 
-- ⚡ Fun fact **Conversations trigger Reels in my head — and I usually reply with one.**
+- ⚡ Fun fact: **Conversations trigger Reels in my head — and I usually reply with one.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> s.buchner@t-online.de
