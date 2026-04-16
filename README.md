@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile. I´m happy to see you here.</h3>
 <h3 align="center">A passionate developer from Germany who enjoys coding and is eager for personal development.</h3>
 
-- 🔭 I’m currently working on: **pokedex_api**
+- 🔭 I’m currently working on: **pokedex-api**
 
 - 🌱 I’m currently learning: **How to build applications using REST APIs in JavaScript.**
 
